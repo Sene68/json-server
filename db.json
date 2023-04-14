@@ -8,5 +8,25 @@
             "id": 2,
             "name": "dog"
         }
+    ],
+    "products": [
+        {
+            "id": 1,
+            "title": "Product 1",
+            "category": "electronics",
+            "price": 1000,
+            "discount": {
+                "type": "shipping"
+            }
+        },
+        {
+            "id": 2,
+            "title": "Product 2",
+            "category": "shoes",
+            "price": 2000,
+            "discount": {
+                "type": "none"
+            }
+        }
     ]
 }
