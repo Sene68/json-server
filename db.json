@@ -2,11 +2,13 @@
     "animals": [
         {
             "id": 1,
-            "name": "cat"
+            "name": "cat",
+            "age": 10
         },
         {
             "id": 2,
-            "name": "dog"
+            "name": "dog",
+            "age": 5
         }
     ],
     "products": [
